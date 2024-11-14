@@ -4,6 +4,7 @@
 ### 功能1 诗词预测/诗词联想
 借助rime插件librime-predict的功能，和预测库db文件，实现诗词下句自动候选。
 
+https://github.com/user-attachments/assets/aa3f37c9-22c0-4273-acd5-5300a22f9ddb
 
  - 支持诗词中任一句（包括诗词名）上屏后触发下句候选
  - 支持含标点补全的候选
@@ -12,6 +13,11 @@
 ### 功能2 诗词反查
  - 诗词句反查 诗词名|作者
  - 诗词名反查 作者 （宋词词牌名可能会对应多作者）
+
+图示
+
+![rime-peotry_demo_pic1](https://github.com/user-attachments/assets/37cc1890-abc9-4b3c-8f43-1c685a28cc42)
+
 
 ### 功能3 诗词词典
 附预测库中包含的诗词拼音词典（包含诗词名、作者、诗词句）
@@ -27,7 +33,7 @@
 
 ### 2. 反查配置
 
-将诗词反查文件peotry_comment.reverse.bin放置到build目录
+将诗词反查文件peotry_comment.reverse.bin放置到rime用户目录下的build目录下
 
 可参考本项目中 luna_pinyin.custom.yaml 修改自己schema对应处配置
 ```yaml
@@ -36,7 +42,7 @@ engine
     -reverse_lookup_filter@poetry_reverse_lookup
 
 poetry_reverse_lookup:
-  dictionary: poetry_comment_simp
+  dictionary: poetry_comment
   overwrite_comment: true
 ```
 
@@ -69,7 +75,7 @@ import_tables:
 
  - 毛泽东诗词 - 77首   （ 来源于互联网 原版简体，繁体版由opencc转换）
 
-诗词清单：[poems_list.txt]()
+诗词清单：[poems_list.txt](https://github.com/Magician62011/rime-poetry/blob/main/poems_list_simp.txt)
 
 欢迎 勘误 和 增录建议
 
