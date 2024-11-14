@@ -1,0 +1,17 @@
+# Rime 自定义设置
+# libriem-predict & rime-poetry 配置示例 2024-11-13 
+patch:
+  switches/+:
+    - name: prediction
+      states: [ 關閉預測, 開啓預測 ]
+      reset: 1
+  'engine/processors/@before 0': predictor
+  'engine/translators/@before 0': predict_translator
+  'engine/filters/@before 2': reverse_lookup_filter@poetry_reverse_lookup
+  #predictor/db: predict_poetry.db
+  predictor/db: predict.db
+  predictor/max_candidates: 5
+  #predictor/max_iterations: 1
+  predictor/max_iterations: 0
+  poetry_reverse_lookup/dictionary: poetry_comment
+  poetry_reverse_lookup/overwrite_comment: true
