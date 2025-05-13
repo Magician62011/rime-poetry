@@ -1,0 +1,44 @@
+# Rime schema
+# encoding: utf-8
+# Magician11 created on 2024-11-11
+# rime-poetry reverse lookup comment dict
+# for build reverse.bin
+
+schema:
+  schema_id: poetry_comment
+  name: 創建詩詞反查備註
+  version: "0.1"
+  author:
+    - Magician11
+  description:
+    用於生成詩詞的反查文件poetry_comment.reverse.bin
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - echo_translator
+    - punct_translator
+    - table_translator
+  filters:
+
+translator:
+  dictionary: poetry_comment # poetry_comment poetry_comment_simp
+
+
+
+
+

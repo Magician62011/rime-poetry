@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/aa3f37c9-22c0-4273-acd5-5300a22f9ddb
 ## 使用方法
 
 ### 1. 联想预测
-参考[librime-lua](https://github.com/rime/librime-predict) 配置方法
+参考[librime-predict](https://github.com/rime/librime-predict) 配置方法
 
 将本项目中的predict.db（在原predict.db基础上，附加了支撑诗词预测联想的数据）放置到rime用户目录
 
@@ -33,11 +33,14 @@ https://github.com/user-attachments/assets/aa3f37c9-22c0-4273-acd5-5300a22f9ddb
 
 ### 2. 反查配置
 
-将诗词反查文件peotry_comment.reverse.bin放置到rime用户目录下的build目录下
+将诗词反查配置文件poetry_comment.dict.yaml 和 反查词典文件 poetry_comment.dict.yaml 放置到rime用户目录下
 
-可参考本项目中 luna_pinyin.custom.yaml 修改自己schema对应处配置
+可参考本项目中 luna_pinyin.custom.yaml 修改自己schema对应处配置。重新部署后，会在build文件夹下，生成对应的reverse.bin文件。
 ```yaml
-engine
+schema:
+  dependencies:
+    - poetry_comment
+engine:
   filters: 
     -reverse_lookup_filter@poetry_reverse_lookup
 

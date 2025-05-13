@@ -1,6 +1,9 @@
 # Rime 自定义设置
 # libriem-predict & rime-poetry 配置示例 2024-11-13 
+# Updated 2025-05-13 add dependencies 添加dependencies后，重新部署会自动生成 build/poetry_comment.reverse.bin反查文件
 patch:
+  schema/dependencies/+:
+    - poetry_comment
   switches/+:
     - name: prediction
       states: [ 關閉預測, 開啓預測 ]

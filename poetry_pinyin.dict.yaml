@@ -816,7 +816,7 @@ columns:
 近試上張籍水部	jin shi shang zhang ji shui bu
 洞房昨夜停紅燭	dong fang zuo ye ting hong zhu
 待曉堂前拜舅姑	dai xiao tang qian bai jiu gu
-[妝]罷低聲問夫壻	[ zhuang ] ba di sheng wen fu xu
+妝罷低聲問夫婿	zhuang ba di sheng wen fu xu
 畫眉深淺入時無	hua mei shen qian ru shi wu
 杜牧	du mu
 將赴吳興登樂遊原一絕	jiang fu wu xing deng le you yuan yi jue
@@ -1058,7 +1058,7 @@ columns:
 憐君何事到天涯	lian jun he shi dao tian ya
 劉長卿	liu zhang qing
 自夏口至鸚鵡洲夕望岳陽寄源中丞	zi xia kou zhi ying wu zhou xi wang yue yang ji yuan zhong cheng
-[汀]洲無浪復無煙	[ ting ] zhou wu lang fu wu yan
+汀洲無浪復無煙	ting zhou wu lang fu wu yan
 楚客相思益渺然	chu ke xiang si yi miao ran
 漢口夕陽斜渡鳥	han kou xi yang xie du niao
 洞庭秋水遠連天	dong ting qiu shui yuan lian tian
@@ -1071,7 +1071,7 @@ columns:
 鶯啼燕語報新年	ying ti yan yu bao xin nian
 馬邑龍堆路幾千	ma yi long dui lu ji qian
 家住層城臨漢苑	jia zhu ceng cheng lin han yuan
-[心]隨明月到胡天	[ xin ] sui ming yue dao hu tian
+心隨明月到胡天	xin sui ming yue dao hu tian
 機中錦字論長恨	ji zhong jin zi lun zhang hen
 樓上花枝笑獨眠	lou shang hua zhi xiao du mian
 爲問元戎竇車騎	wei wen yuan rong dou che qi
@@ -1543,7 +1543,7 @@ columns:
 丘爲	qiu wei
 尋西山隱者不遇	xun xi shan yin zhe bu yu
 絕頂一茅茨	jue ding yi mao ci
-直[上]三十里	zhi [ shang ] san shi li
+直上三十里	zhi shang san shi li
 扣關無僮僕	kou guan wu tong pu
 窺室唯案几	kui shi wei an ji
 若非巾柴車	ruo fei jin chai che
@@ -2312,7 +2312,7 @@ columns:
 漁翁夜傍西巖宿	yu weng ye bang xi yan su
 曉汲清湘燃楚竹	xiao ji qing xiang ran chu zhu
 煙銷日出不見人	yan xiao ri chu bu jian ren
-[欸]乃一聲山水綠	[ ai ] nai yi sheng shan shui lv
+欸乃一聲山水綠	ai nai yi sheng shan shui lv
 迴看天際下中流	hui kan tian ji xia zhong liu
 巖上無心雲相逐	yan shang wu xin yun xiang zhu
 劉禹錫	liu yu xi
@@ -3204,7 +3204,7 @@ columns:
 泉源在庭戶	quan yuan zai ting hu
 洞壑當門前	dong he dang men qian
 井稅有常期	jing shui you chang qi
-日[晏]猶得眠	ri [ yan ] you de mian
+日晏猶得眠	ri yan you de mian
 忽然遭世變	hu ran zao shi bian
 數歲親戎旃	shu sui qin rong zhan
 今來典斯郡	jin lai dian si jun
@@ -3581,7 +3581,7 @@ columns:
 胡窺青海灣	hu kui qing hai wan
 由來征戰地	you lai zheng zhan di
 不見有人還	bu jian you ren hai
-[戍]客望邊色	[ shu ] ke wang bian se
+戍客望邊色	shu ke wang bian se
 思歸多苦顏	si gui duo ku yan
 高樓當此夜	gao lou dang ci ye
 歎息未應閑	tan xi wei ying xian
@@ -5127,8 +5127,8 @@ columns:
 雪滿長安道	xue man zhang an dao
 故人早晚上高臺	gu ren zao wan shang gao tai
 贈我江南春色、一枝梅	zeng wo jiang nan chun se 、 yi zhi mei
-韓	han
-高陽臺	gao yang tai
+韓疁	han liu
+高陽臺·除夜	gao yang tai chu ye
 頻聽銀籤	pin ting yin qian
 重燃絳蠟	zhong ran jiang la
 年華袞袞驚心	nian hua gun gun jing xin
@@ -6486,8 +6486,8 @@ columns:
 正銷魂	zheng xiao hun
 又是疏煙淡月	you shi shu yan dan yue
 子規聲斷	zi gui sheng duan
-張	zhang
-宴山亭・燕山亭	yan shan ting ・ yan shan ting
+張鎡	zhang zi
+宴山亭/燕山亭	yan shan ting / yan shan ting
 幽夢初回	you meng chu hui
 重陰未開	zhong yin wei kai
 曉色吹成疏雨	xiao se chui cheng shu yu
@@ -6520,7 +6520,8 @@ columns:
 舊江山	jiu jiang shan
 渾是新愁	hun shi xin chou
 欲買桂花同載酒	yu mai gui hua tong zai jiu
-終不似、少年遊	zhong bu shi 、 shao nian you
+終不似	zhong bu shi
+少年遊	shao nian you
 姜夔	jiang kui
 點絳脣	dian jiang chun
 燕雁無心	yan yan wu xin
@@ -7724,25 +7725,24 @@ columns:
 舊遊無處不堪尋	jiu you wu chu bu kan xun
 無尋處	wu xun chu
 惟有少年心	wei you shao nian xin
-張	zhang
-滿庭芳	man ting fang
+張鎡	zhang zi
+滿庭芳·促織兒	man ting fang cu zhi er
 月洗高梧	yue xi gao wu
-露幽草	lu you cao
+露漙幽草	lu tuan you cao
 寶釵樓外秋深	bao chai lou wai qiu shen
 土花沿翠	tu hua yan cui
 螢火墜牆陰	ying huo zhui qiang yin
 靜聽寒聲斷續	jing ting han sheng duan xu
-微韻轉、悽咽悲沈	wei yun zhuan 、 qi yan bei shen
+微韻轉、悽咽悲沉	wei yun zhuan 、 qi yan bei chen
 爭求侶	zheng qiu lv
 殷勤勸織	yin qin quan zhi
 促破曉機心	cu po xiao ji xin
-兒時	er shi
-曾記得	ceng ji de
+兒時曾記得	er shi ceng ji de
 呼燈灌穴	hu deng guan xue
 斂步隨音	lian bu sui yin
 任滿身花影	ren man shen hua ying
 猶自追尋	you zi zhui xun
-攜向花堂戲鬥	xie xiang hua tang xi dou
+攜向華堂戲鬥	xie xiang hua tang xi dou
 亭臺小、籠巧妝金	ting tai xiao 、 long qiao zhuang jin
 今休說	jin xiu shuo
 從渠牀下	cong qu chuang xia
@@ -8613,7 +8613,7 @@ columns:
 飛蓋歸來	fei gai gui lai
 從舞休歌罷	cong wu xiu ge ba
 周邦彥	zhou bang yan
-大	da
+大酺·春雨	da pu chun yu
 對宿煙收	dui su yan shou
 春禽靜	chun qin jing
 飛雨時鳴高屋	fei yu shi ming gao wu
@@ -8632,7 +8632,7 @@ columns:
 行人歸意速	xing ren gui yi su
 最先念、流潦妨車轂	zui xian nian 、 liu lao fang che gu
 怎奈向、蘭成憔悴	zen nai xiang 、 lan cheng qiao cui
-衛清羸	wei qing lei
+衛玠清羸	wei jie qing lei
 等閒時、易傷心目	deng xian shi 、 yi shang xin mu
 未怪平陽客	wei guai ping yang ke
 雙淚落、笛中哀曲	shuang lei luo 、 di zhong ai qu
@@ -8802,13 +8802,12 @@ columns:
 有何人、念我無	you he ren 、 nian wo wu
 夢魂凝想鴛侶	meng hun ning xiang yuan lv
 周邦彥	zhou bang yan
-蝶戀花	die lian hua
+蝶戀花·早行	die lian hua zao xing
 月皎驚烏棲不定	yue jiao jing wu qi bu ding
 更漏將殘	geng lou jiang can
-轆	lu
-牽金井	qian jin jing
+轆轤牽金井	lu lu qian jin jing
 喚起兩眸清炯炯	huan qi liang mou qing jiong jiong
-淚花落枕紅棉泠	lei hua lao zhen hong mian ling
+淚花落枕紅綿冷	lei hua lao zhen hong mian leng
 執手霜風吹鬢影	zhi shou shuang feng chui bin ying
 去意徊徨	qu yi huai huang
 別語愁難聽	bie yu chou nan ting
